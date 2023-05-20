@@ -4,4 +4,4 @@
 
 🌱 I’ve recently graduated from Macquarie University with a Bachelor of Cyber Security and am currently looking for a graduate role in IT
 
-💻 I'm most confident with Java, but have experience programming in Python, JavaScript/HTML/CSS, C, and Assembly
+☕ I'm most confident with Java, but have experience programming in Python, JavaScript/HTML/CSS, C, and Assembly
