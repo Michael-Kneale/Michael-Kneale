@@ -6,4 +6,4 @@
 
 ☕ I'm most confident with Java, but have experience programming in Python, JavaScript/HTML/CSS, C, and Assembly
 
-📚 I recently started studying with LeetCode and Frontend Mentor to refresh and improve my coding skills
+📚 I recently started studying with LeetCode, Frontend Mentor, and The Odin Project to refresh and improve my coding skills
