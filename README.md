@@ -4,6 +4,6 @@
 
 🌱 I recently graduated from Macquarie University with a Bachelor of Cyber Security and am currently looking for a graduate role in IT
 
-☕ I'm most confident with Java, but have experience programming in Python, JavaScript/HTML/CSS, C, and Assembly
+☕ I'm most confident with Java, but have experience programming in Python, JavaScript/HTML/CSS, and C
 
-📚 I recently started studying with LeetCode, Frontend Mentor, and The Odin Project to refresh and improve my coding skills
+📚 I recently started studying with LetsDefend and LeetCode, as well as towards a Security+ certification, in order to refresh and improve my cyber security and coding skills
