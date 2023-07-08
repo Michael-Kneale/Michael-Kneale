@@ -6,4 +6,4 @@
 
 ☕ I'm most confident with Java, but have experience programming in Python, JavaScript/HTML/CSS, and C
 
-📚 I recently started studying with LetsDefend and LeetCode, as well as towards a Security+ certification, in order to refresh and improve my cyber security and coding skills
+📚 I recently started studying with LeetCode, as well as towards a Security+ certification, in order to refresh and improve my cyber security and coding skills
