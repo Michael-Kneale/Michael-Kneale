@@ -6,4 +6,4 @@
 
 ☕ I'm most confident with Java, but have experience programming in Python, JavaScript/HTML/CSS, and C
 
-🦾 Recently, I have been freelancing at DataAnnotation to learn more about AI and make money doing it
+🦾 Recently, I have been freelancing at DataAnnotation to learn more about AI
