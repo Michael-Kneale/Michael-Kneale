@@ -6,4 +6,4 @@
 
 ☕ I'm most confident with Java, but have experience programming in Python, JavaScript/HTML/CSS, and C
 
-🦾 Recently, I have been freelancing at DataAnnotation and TELUS International to help train AI
+🦾 Recently, I have been freelancing at DataAnnotation and TELUS Digital to help train AI
